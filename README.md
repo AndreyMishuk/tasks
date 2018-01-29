@@ -1,1 +1,1 @@
-### tasks from <git push -u origin master>
+### tasks from <http://acmp.ru/index.asp?main=tasks>
